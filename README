@@ -1,0 +1,4 @@
+~/.xmobarcc
+~/.xmonad/xmonad.hs
+/usr/share/xsessions/xmonad.desktop
+/usr/local/bin/xmonad.start
