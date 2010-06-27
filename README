@@ -1,4 +1,12 @@
+File locations (ubuntu lucid lynx 10.04):
+
 ~/.xmobarcc
 ~/.xmonad/xmonad.hs
 /usr/share/xsessions/xmonad.desktop
 /usr/local/bin/xmonad.start
+
+
+Guides I've used to setup:
+
+    http://www.haskell.org/haskellwiki/Xmonad/Config_archive/John_Goerzen's_Configuration
+    http://genaud.net/2010/05/xmonad-on-lucid-lynx/
